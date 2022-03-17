@@ -17,8 +17,11 @@
     justify-content: center;
     align-items: center;
 }
-.home-form{
+.home-form {
     width: 600px;
-    background-color: #ff4d298f;
+    background-color: #4536538f;
     height: 600px;
+    box-shadow: rgb(0 0 0 / 50%) 0px 5px 15px;
+    border-radius: 20px;
+    padding: 20px;
 }

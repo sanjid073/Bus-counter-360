@@ -10,33 +10,8 @@ const Home = () => {
         <div className="container">
           <div className="container1">
             <form className="home-form">
-              <li class="nav-item dropdown ">
-                <a
-                  class="nav-link active dropdown-toggle"
-                  href="#"
-                  id="navbarDropdownMenuLink"
-                  role="button"
-                  data-bs-toggle="dropdown"
-                  aria-expanded="false"
-                >
-                  Login
-                </a>
-                <ul
-                  class="dropdown-menu dropdown-box"
-                  aria-labelledby="navbarDropdownMenuLink"
-                >
-                  <li>
-                    <a class="dropdown-item" href="#">
-                      User Login
-                    </a>
-                  </li>
-                  <li>
-                    <a class="dropdown-item" href="#">
-                      Admin Login
-                    </a>
-                  </li>
-                </ul>
-              </li>
+              {/* content should be here */}
+              <h1 className="text-white my-5">This is our input</h1>
             </form>
           </div>
         </div>
