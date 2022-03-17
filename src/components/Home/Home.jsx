@@ -12,6 +12,7 @@ const Home = () => {
             <form className="home-form">
               {/* content should be here */}
               <h1 className="text-white my-5">This is our input</h1>
+              <button className="btn my-btn mx-auto text-white">check</button>
             </form>
           </div>
         </div>
